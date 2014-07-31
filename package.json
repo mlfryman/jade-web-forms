@@ -1,0 +1,19 @@
+{
+  "name": "jade-web-forms",
+  "version": "0.0.0",
+  "description": "Learning Jade & web forms",
+  "main": "app/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mlfryman/jade-web-forms"
+  },
+  "author": "Melanie Fryman <melanie@frymanet.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mlfryman/jade-web-forms/issues"
+  },
+  "homepage": "https://github.com/mlfryman/jade-web-forms"
+}
