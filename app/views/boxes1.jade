@@ -1,0 +1,18 @@
+doctype html
+html
+  head
+    meta(charset='utf-8')
+    title = Too Many Boxes!
+    link(rel='stylesheet', href='/css/boxes.css')
+  body
+    h1 So, you want a lot of boxes, huh?
+  
+    form(method='post', action='/boxes')
+      label('How many boxes?')
+      input(name='count', type='text', placeholder='count', autofocus=true)
+      input(name='', type='text', placeholder='# - #')
+      input(type='text', name='h', placeholder='# - #')
+      input(type='textarea', name='c', placeholder='colors')
+      button i can haz boxes?
+
+
