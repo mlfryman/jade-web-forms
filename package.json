@@ -15,5 +15,18 @@
   "bugs": {
     "url": "https://github.com/mlfryman/jade-web-forms/issues"
   },
-  "homepage": "https://github.com/mlfryman/jade-web-forms"
+  "homepage": "https://github.com/mlfryman/jade-web-forms",
+  "dependencies": {
+    "body-parser": "^1.5.2",
+    "express": "^4.7.2",
+    "jade": "^1.5.0",
+    "morgan": "^1.2.2",
+    "supervisor": "^0.6.0"
+  },
+  "devDependencies": {
+    "grunt": "^0.4.5",
+    "grunt-contrib-jshint": "^0.10.0",
+    "grunt-contrib-watch": "^0.6.1",
+    "jshint-stylish": "^0.4.0"
+  }
 }
